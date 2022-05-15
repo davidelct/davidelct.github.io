@@ -404,6 +404,10 @@ img {
     position: relative; 
 }
 
+.publicationentry {
+    font-style: normal;   
+}
+
 .sidenote-number {
     counter-increment: sidenote-counter; 
 }
@@ -625,4 +629,3 @@ label.margin-toggle:not(.sidenote-number) {
 	color: #000; 
 	background-color: #fff; 
 	} 
- 
